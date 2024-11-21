@@ -1,0 +1,378 @@
+Epoch 0/59
+Lr: 0.001
+==========
+train Loss: 2.22354 Akurasi: 0.34830
+val Loss: 2.14491 Akurasi: 0.40455
+Best Val Test Acc ✔
+
+Epoch 1/59
+Lr: 0.001
+==========
+train Loss: 1.42219 Akurasi: 0.55852
+val Loss: 1.92671 Akurasi: 0.48864
+Best Val Test Acc ✔
+
+Epoch 2/59
+Lr: 0.001
+==========
+train Loss: 0.91539 Akurasi: 0.71932
+val Loss: 1.64882 Akurasi: 0.53409
+Best Val Test Acc ✔
+
+Epoch 3/59
+Lr: 0.001
+==========
+train Loss: 0.54935 Akurasi: 0.83409
+val Loss: 2.00955 Akurasi: 0.52273
+
+Epoch 4/59
+Lr: 0.001
+==========
+train Loss: 0.37528 Akurasi: 0.89034
+val Loss: 1.88997 Akurasi: 0.53636
+Best Val Test Acc ✔
+
+Epoch 5/59
+Lr: 0.001
+==========
+train Loss: 0.30047 Akurasi: 0.91818
+val Loss: 1.92022 Akurasi: 0.53182
+
+Epoch 6/59
+Lr: 0.001
+==========
+train Loss: 0.28215 Akurasi: 0.91989
+val Loss: 2.01058 Akurasi: 0.55909
+Best Val Test Acc ✔
+
+Epoch 7/59
+Lr: 0.001
+==========
+train Loss: 0.25374 Akurasi: 0.92102
+val Loss: 2.07744 Akurasi: 0.56818
+Best Val Test Acc ✔
+
+Epoch 8/59
+Lr: 0.001
+==========
+train Loss: 0.25520 Akurasi: 0.92159
+val Loss: 2.28597 Akurasi: 0.52500
+
+Epoch 9/59
+Lr: 0.001
+==========
+train Loss: 0.23740 Akurasi: 0.93125
+val Loss: 2.28855 Akurasi: 0.51818
+
+Epoch 10/59
+Lr: 0.001
+==========
+train Loss: 0.23987 Akurasi: 0.93295
+val Loss: 2.23573 Akurasi: 0.53636
+
+Epoch 11/59
+Lr: 0.001
+==========
+train Loss: 0.19885 Akurasi: 0.94205
+val Loss: 2.40343 Akurasi: 0.53864
+
+Epoch 12/59
+Lr: 0.001
+==========
+train Loss: 0.16763 Akurasi: 0.95057
+val Loss: 2.29296 Akurasi: 0.56136
+
+Epoch 13/59
+Lr: 0.001
+==========
+train Loss: 0.14186 Akurasi: 0.95568
+val Loss: 2.17427 Akurasi: 0.53636
+
+Epoch 14/59
+Lr: 0.001
+==========
+train Loss: 0.14363 Akurasi: 0.95341
+val Loss: 2.22154 Akurasi: 0.55455
+
+Epoch 15/59
+Lr: 0.001
+==========
+train Loss: 0.12097 Akurasi: 0.96250
+val Loss: 2.23848 Akurasi: 0.57273
+Best Val Test Acc ✔
+
+Epoch 16/59
+Lr: 0.001
+==========
+train Loss: 0.12550 Akurasi: 0.96761
+val Loss: 2.37561 Akurasi: 0.55682
+
+Epoch 17/59
+Lr: 0.001
+==========
+train Loss: 0.10214 Akurasi: 0.96420
+val Loss: 2.47599 Akurasi: 0.54318
+
+Epoch 18/59
+Lr: 0.001
+==========
+train Loss: 0.14296 Akurasi: 0.95511
+val Loss: 2.41105 Akurasi: 0.57273
+
+Epoch 19/59
+Lr: 0.001
+==========
+train Loss: 0.13814 Akurasi: 0.95341
+val Loss: 2.32048 Akurasi: 0.52727
+
+Epoch 20/59
+Lr: 0.001
+==========
+train Loss: 0.15001 Akurasi: 0.94602
+val Loss: 2.71253 Akurasi: 0.54545
+
+Epoch 21/59
+Lr: 0.001
+==========
+train Loss: 0.14889 Akurasi: 0.94432
+val Loss: 2.61214 Akurasi: 0.55455
+
+Epoch 22/59
+Lr: 0.001
+==========
+train Loss: 0.15013 Akurasi: 0.95341
+val Loss: 2.42490 Akurasi: 0.55227
+
+Epoch 23/59
+Lr: 0.001
+==========
+train Loss: 0.16237 Akurasi: 0.94830
+val Loss: 2.53171 Akurasi: 0.55909
+
+Epoch 24/59
+Lr: 0.001
+==========
+train Loss: 0.16034 Akurasi: 0.95057
+val Loss: 2.38287 Akurasi: 0.55000
+
+Epoch 25/59
+Lr: 0.001
+==========
+train Loss: 0.15762 Akurasi: 0.94602
+val Loss: 2.44345 Akurasi: 0.52955
+
+Epoch 26/59
+Lr: 0.001
+==========
+train Loss: 0.19181 Akurasi: 0.93977
+val Loss: 2.71763 Akurasi: 0.51364
+
+Epoch 27/59
+Lr: 0.001
+==========
+train Loss: 0.15026 Akurasi: 0.95114
+val Loss: 2.41423 Akurasi: 0.55227
+
+Epoch 28/59
+Lr: 0.001
+==========
+train Loss: 0.12254 Akurasi: 0.95511
+val Loss: 2.39718 Akurasi: 0.53409
+
+Epoch 29/59
+Lr: 0.001
+==========
+train Loss: 0.11598 Akurasi: 0.95625
+val Loss: 2.64063 Akurasi: 0.52500
+
+Epoch 30/59
+Lr: 0.0001
+==========
+train Loss: 0.07015 Akurasi: 0.97500
+val Loss: 2.33498 Akurasi: 0.56818
+
+Epoch 31/59
+Lr: 0.0001
+==========
+train Loss: 0.04565 Akurasi: 0.98125
+val Loss: 2.26361 Akurasi: 0.57500
+Best Val Test Acc ✔
+
+Epoch 32/59
+Lr: 0.0001
+==========
+train Loss: 0.03493 Akurasi: 0.98580
+val Loss: 2.22348 Akurasi: 0.58864
+Best Val Test Acc ✔
+
+Epoch 33/59
+Lr: 0.0001
+==========
+train Loss: 0.03223 Akurasi: 0.98580
+val Loss: 2.21643 Akurasi: 0.59091
+Best Val Test Acc ✔
+
+Epoch 34/59
+Lr: 0.0001
+==========
+train Loss: 0.03234 Akurasi: 0.98295
+val Loss: 2.21209 Akurasi: 0.59318
+Best Val Test Acc ✔
+
+Epoch 35/59
+Lr: 0.0001
+==========
+train Loss: 0.03199 Akurasi: 0.98352
+val Loss: 2.21037 Akurasi: 0.59545
+Best Val Test Acc ✔
+
+Epoch 36/59
+Lr: 0.0001
+==========
+train Loss: 0.03021 Akurasi: 0.98409
+val Loss: 2.21220 Akurasi: 0.59545
+
+Epoch 37/59
+Lr: 0.0001
+==========
+train Loss: 0.02970 Akurasi: 0.98466
+val Loss: 2.20660 Akurasi: 0.60227
+Best Val Test Acc ✔
+
+Epoch 38/59
+Lr: 0.0001
+==========
+train Loss: 0.03008 Akurasi: 0.98068
+val Loss: 2.19298 Akurasi: 0.60000
+
+Epoch 39/59
+Lr: 0.0001
+==========
+train Loss: 0.02811 Akurasi: 0.98523
+val Loss: 2.18491 Akurasi: 0.59545
+
+Epoch 40/59
+Lr: 0.0001
+==========
+train Loss: 0.02677 Akurasi: 0.98580
+val Loss: 2.18109 Akurasi: 0.59091
+
+Epoch 41/59
+Lr: 0.0001
+==========
+train Loss: 0.02773 Akurasi: 0.98409
+val Loss: 2.17056 Akurasi: 0.60000
+
+Epoch 42/59
+Lr: 0.0001
+==========
+train Loss: 0.02757 Akurasi: 0.98466
+val Loss: 2.19877 Akurasi: 0.60227
+
+Epoch 43/59
+Lr: 0.0001
+==========
+train Loss: 0.02748 Akurasi: 0.98523
+val Loss: 2.19358 Akurasi: 0.60000
+
+Epoch 44/59
+Lr: 0.0001
+==========
+train Loss: 0.02642 Akurasi: 0.98636
+val Loss: 2.20337 Akurasi: 0.60000
+
+Epoch 45/59
+Lr: 0.0001
+==========
+train Loss: 0.02728 Akurasi: 0.98580
+val Loss: 2.21721 Akurasi: 0.60227
+
+Epoch 46/59
+Lr: 0.0001
+==========
+train Loss: 0.02621 Akurasi: 0.98693
+val Loss: 2.18897 Akurasi: 0.60455
+Best Val Test Acc ✔
+
+Epoch 47/59
+Lr: 0.0001
+==========
+train Loss: 0.02495 Akurasi: 0.98523
+val Loss: 2.19578 Akurasi: 0.61364
+Best Val Test Acc ✔
+
+Epoch 48/59
+Lr: 0.0001
+==========
+train Loss: 0.02532 Akurasi: 0.98523
+val Loss: 2.21326 Akurasi: 0.60227
+
+Epoch 49/59
+Lr: 0.0001
+==========
+train Loss: 0.02526 Akurasi: 0.98636
+val Loss: 2.19331 Akurasi: 0.60227
+
+Epoch 50/59
+Lr: 0.0001
+==========
+train Loss: 0.02726 Akurasi: 0.98352
+val Loss: 2.18739 Akurasi: 0.60000
+
+Epoch 51/59
+Lr: 0.0001
+==========
+train Loss: 0.02550 Akurasi: 0.98409
+val Loss: 2.19885 Akurasi: 0.60455
+
+Epoch 52/59
+Lr: 0.0001
+==========
+train Loss: 0.02580 Akurasi: 0.98523
+val Loss: 2.21431 Akurasi: 0.59773
+
+Epoch 53/59
+Lr: 0.0001
+==========
+train Loss: 0.02470 Akurasi: 0.98750
+val Loss: 2.19548 Akurasi: 0.60227
+
+Epoch 54/59
+Lr: 0.0001
+==========
+train Loss: 0.02450 Akurasi: 0.98636
+val Loss: 2.19062 Akurasi: 0.60227
+
+Epoch 55/59
+Lr: 0.0001
+==========
+train Loss: 0.02618 Akurasi: 0.98466
+val Loss: 2.19961 Akurasi: 0.60227
+
+Epoch 56/59
+Lr: 0.0001
+==========
+train Loss: 0.02442 Akurasi: 0.98636
+val Loss: 2.19644 Akurasi: 0.60682
+
+Epoch 57/59
+Lr: 0.0001
+==========
+train Loss: 0.02515 Akurasi: 0.98636
+val Loss: 2.18423 Akurasi: 0.61364
+
+Epoch 58/59
+Lr: 0.0001
+==========
+train Loss: 0.02408 Akurasi: 0.98636
+val Loss: 2.20740 Akurasi: 0.60682
+
+Epoch 59/59
+Lr: 0.0001
+==========
+train Loss: 0.02459 Akurasi: 0.98409
+val Loss: 2.20800 Akurasi: 0.60682
+
+Training selesai pada 121 menit 50 detik
+Validasi Terbaik: 0.613636
+Dengan Loss: 2.195776
